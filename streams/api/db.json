@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "saad",
+      "description": "is ",
+      "id": 1
+    },
+    {
+      "title": "fortnite",
+      "description": "good game",
+      "id": 2
+    },
+    {
+      "title": "python 2.0",
+      "description": "python classes",
+      "subject": "computers",
+      "userId": "112310577786450639975",
+      "id": 4
+    },
+    {
+      "title": "new stream",
+      "description": "not forproject review",
+      "subject": "cs",
+      "userId": "112310577786450639975",
+      "id": 5
+    }
+  ]
+}
